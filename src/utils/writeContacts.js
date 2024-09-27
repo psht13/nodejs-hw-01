@@ -7,5 +7,6 @@ export const writeContacts = async (updatedContacts) => {
     fs.writeFile(PATH_DB, data, 'utf-8');
   } catch (err) {
     console.error(err.message);
+    process.exit(1);
   }
 };
