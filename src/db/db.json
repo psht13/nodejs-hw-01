@@ -33,5 +33,40 @@
     "phone": "672.293.5067 x24380",
     "email": "Wellington7@hotmail.com",
     "job": "International Communications Administrator"
+  },
+  {
+    "id": "d585e620-c989-40a5-9c7b-5a22b464b7ec",
+    "name": "Dr. Ernest Russel",
+    "phone": "(333) 658-8071 x42667",
+    "email": "Susie57@gmail.com",
+    "job": "Dynamic Optimization Orchestrator"
+  },
+  {
+    "id": "c2f7bb6b-4413-44e7-b9d4-1eaa2a83329f",
+    "name": "Delia Collins",
+    "phone": "(896) 695-1673 x6337",
+    "email": "Shanna_Kulas@gmail.com",
+    "job": "Future Assurance Strategist"
+  },
+  {
+    "id": "9823b148-454d-4749-b7cd-a6695315fc31",
+    "name": "Dana Pollich",
+    "phone": "(420) 552-8629 x0745",
+    "email": "Niko_Fisher@hotmail.com",
+    "job": "District Branding Officer"
+  },
+  {
+    "id": "dd39db25-2f6c-40b7-aa20-a63a05235c40",
+    "name": "Mario Rutherford",
+    "phone": "706-414-9194 x88840",
+    "email": "Patsy.Hessel83@yahoo.com",
+    "job": "Legacy Optimization Representative"
+  },
+  {
+    "id": "d9c9af37-4c43-44cf-b78a-6ffd7d893da5",
+    "name": "Pete Aufderhar",
+    "phone": "(714) 532-2263 x97062",
+    "email": "Alanis11@gmail.com",
+    "job": "Regional Division Strategist"
   }
 ]
