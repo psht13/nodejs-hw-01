@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": "86f3d83a-a2b8-4481-a180-e02bab703d97",
+    "name": "Owen Carroll",
+    "phone": "1-788-478-1555 x127",
+    "email": "Gardner_Veum10@yahoo.com",
+    "job": "National Tactics Administrator"
+  },
+  {
+    "id": "f58fec54-e8b0-4a4b-b4d3-f957e0dc71d9",
+    "name": "Lena Hauck",
+    "phone": "424-504-1956 x818",
+    "email": "Dejuan2@gmail.com",
+    "job": "Chief Mobility Agent"
+  },
+  {
+    "id": "b7439f12-4245-42aa-bbc0-05a94ed3dff0",
+    "name": "Rodney Jakubowski",
+    "phone": "477-221-8762 x5157",
+    "email": "Shany15@hotmail.com",
+    "job": "Lead Metrics Associate"
+  },
+  {
+    "id": "87416136-20c8-415a-b155-edcbcc9292d4",
+    "name": "Cindy Jast",
+    "phone": "(481) 298-7213",
+    "email": "Gabe_Huel@hotmail.com",
+    "job": "Senior Mobility Producer"
+  },
+  {
+    "id": "25db3e39-04ad-459d-a4a2-50b38a4cabe2",
+    "name": "Erick Douglas",
+    "phone": "672.293.5067 x24380",
+    "email": "Wellington7@hotmail.com",
+    "job": "International Communications Administrator"
+  }
+]
